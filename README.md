@@ -1,5 +1,5 @@
-# my_app
-
+# flutter_app
+# Developer Benard Zibir David (traj3ctory)
 A new Flutter project.
 
 ## Getting Started
